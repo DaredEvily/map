@@ -31,8 +31,8 @@ const _head = styled.div`
         margin-top: 2%;
         border-radius: 40px;
         border: 1px solid;
-        padding: 1.5%;
-        font-size: 30px;
+        padding: 1%;
+        font-size: 25px;
         width: 500px;
         text-align: center;
         @media (max-width:1000px){
